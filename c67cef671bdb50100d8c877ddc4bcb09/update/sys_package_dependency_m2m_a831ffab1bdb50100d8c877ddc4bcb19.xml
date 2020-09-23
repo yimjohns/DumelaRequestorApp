@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">1e28fdb51b3210100d8c877ddc4bcb51</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 11:06:13</sys_created_on>
+        <sys_id>a831ffab1bdb50100d8c877ddc4bcb19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="DumelaRequestorApp" source="x_528439_dumelareq">c67cef671bdb50100d8c877ddc4bcb09</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 11:06:13</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
